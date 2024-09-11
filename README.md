@@ -24,24 +24,21 @@ The primary goals of this project were to:
 ## 🛠️ How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/younes2808/iphone-15-pro-recreation.git
+    git clone https://github.com/younes2808/AppleLandingPage
     ```
-2. Navigate to the project directory:
+2. Install dependencies:
     ```bash
-    cd iphone-15-pro-recreation
-    ```
-3. Install dependencies:
-    ```bash
-    npm install
+    npm install vite
+    npm run build
     ```
 4. Start the development server:
     ```bash
     npm run dev
     ```
-5. Open your browser and visit `http://localhost:3000` to see the project in action.
+5. Open your browser and visit `http://localhost` to see the project in action.
 
 ## 📝 Future Plans
-This project serves as a learning foundation for creating my own personal portfolio website, which is currently under development. The skills gained here, especially in animation and 3D rendering, will be applied to make a highly interactive and visually appealing portfolio.
+This project serves as a learning foundation for creating my own personal portfolio website, which is currently under development. The skills gained here, especially in animation and 3D rendering, will be applied to make a highly interactive portfolio website.
 
 ## 📚 Inspiration
 This project was built following a tutorial by **JavaScript Mastery**[https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=6903s], which provided great insights into building modern web applications with React, GSAP, and Three.js.
