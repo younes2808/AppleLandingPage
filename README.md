@@ -2,6 +2,9 @@
 
 This is a recreation of the official iPhone 15 Pro Apple website, built using React and Vite. The project utilizes GSAP and Three.js frameworks to create dynamic and interactive animations, aiming to replicate the immersive experience found on the original product page.
 
+![Website Screenshot](APPLE1.png)
+![Website Screenshot2](APPLE2.png)
+
 ## 🎯 Goals
 The primary goals of this project were to:
 - Recreate the iPhone 15 Pro product page with smooth animations and 3D effects.
