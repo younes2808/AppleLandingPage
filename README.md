@@ -4,6 +4,9 @@ This is a recreation of the official iPhone 15 Pro Apple website, built using Re
 
 ![Website Screenshot](APPLE1.png)
 ![Website Screenshot2](APPLE2.png)
+## Demo
+
+[Link to live demo: ](https://younes2808.github.io/AppleLandingPage/)
 
 ## 🎯 Goals
 The primary goals of this project were to:
