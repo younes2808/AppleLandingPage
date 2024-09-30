@@ -15,5 +15,4 @@ export default defineConfig({
     sourcemap: true,
     outDir: 'dist' // Ensure this matches your deploy script
   },
-  base: '/AppleLandingPage/' // Set base for GitHub Pages
 });
